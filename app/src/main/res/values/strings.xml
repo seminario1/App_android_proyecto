@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login_app</string>
+    <string name="errorLogin">ERROR NO SE PUDO CONECTAR A GOOGLE</string>
+</resources>
